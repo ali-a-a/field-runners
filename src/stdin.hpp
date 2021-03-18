@@ -1,0 +1,1 @@
+std::vector<std::string> get_std_input();
