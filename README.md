@@ -1,3 +1,3 @@
 # field-runners
 
-Simple game!
+Simple game using C++ SDL.
