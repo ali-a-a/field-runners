@@ -1,3 +1,7 @@
-# field-runners
+# Field Runners
 
-Simple game using C++ SDL.
+It is a tiny battlefield-like game in SDL2 and C++. The game is about defending your country by deploying different kinds of missiles and killing enemies trying to invade your country.
+
+## Game Picture
+
+<img width="512" alt="Screen Shot 2022-03-09 at 2 35 15 PM" src="https://private-user-images.githubusercontent.com/68470999/422437777-0903b96f-56e9-4396-bf1e-867ec53acd70.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4ODI2NzgsIm5iZiI6MTc0MTg4MjM3OCwicGF0aCI6Ii82ODQ3MDk5OS80MjI0Mzc3NzctMDkwM2I5NmYtNTZlOS00Mzk2LWJmMWUtODY3ZWM1M2FjZDcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEzVDE2MTI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwOTlhNGIwOWY1MmQzZjE5NDkwNTQwMWVkYjNiZWYzNmM4YjJkYjAzN2VjYmM5ODJkMzBmZmQ4ZGVmYzEzMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IsMVyFsWXmLLe4EcQQFJ5byg7Wh8euKwk0JmxRhlpZ4">
