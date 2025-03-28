@@ -26,5 +26,6 @@ In each wave, a given number of enemies attack from the given starting point and
 You can check out the `src/defines.hpp` file and change constant values to customize the game as you want.
 
 ## Game Picture
+<img width="511" alt="423173240-bc1a648b-6ca3-4e31-a114-7467934300d0" src="https://github.com/user-attachments/assets/f64546bb-3ef9-410b-8e76-0070a306dea3" />
 
-<img width="512" alt="Screen Shot 2022-03-09 at 2 35 15 PM" src="https://private-user-images.githubusercontent.com/68470999/422437777-0903b96f-56e9-4396-bf1e-867ec53acd70.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxMjM4NjUsIm5iZiI6MTc0MzEyMzU2NSwicGF0aCI6Ii82ODQ3MDk5OS80MjI0Mzc3NzctMDkwM2I5NmYtNTZlOS00Mzk2LWJmMWUtODY3ZWM1M2FjZDcwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI4VDAwNTkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmYmE1YmZhYWY3YmFlOTFkYzM2ZDhhMTMzZDBlYTJiYTk2MDFiNmE2MDY1MWUzYjgwZDE3Y2ZkMTZiOTViNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ael8zvDcBpTXSNfLbt78sfsZuGXjov_ufdUMQG8b1uk">
+
