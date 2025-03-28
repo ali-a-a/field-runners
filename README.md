@@ -26,6 +26,7 @@ In each wave, a given number of enemies attack from the given starting point and
 You can check out the `src/defines.hpp` file and change constant values to customize the game as you want.
 
 ## Game Picture
-<img width="511" alt="423173240-bc1a648b-6ca3-4e31-a114-7467934300d0" src="https://github.com/user-attachments/assets/f64546bb-3ef9-410b-8e76-0070a306dea3" />
+![422437777-0903b96f-56e9-4396-bf1e-867ec53acd70](https://github.com/user-attachments/assets/b499c917-f7bd-4703-ad54-3ea1de2e70ac)
+
 
 
